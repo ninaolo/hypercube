@@ -1,4 +1,4 @@
-#include "kth_cprog_template_container.hpp"
+#include "container.hpp"
 
 /*
  This is a hypercube which uses templates in C++ to create multiple dimensions.
